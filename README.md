@@ -380,15 +380,8 @@ Created with 💡 by [Padmarao](https://github.com/pj013525)
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/padmarao-devops)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pj013525)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pj013525)
-[![Padmarao](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pj013525.com/@prodevopsguy)
 
 </div>
 
 ---
 
-### 📢 Stay Updated
-
-<div align="center">
-  <img src="https://imgur.com/2j7GSPs.png" alt="Follow Me">
-</div>
